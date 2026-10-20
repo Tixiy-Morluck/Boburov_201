@@ -1,6 +1,8 @@
 # Boburov_201
 Зачётная работа
 
+P.s. с чего вдохновлялся https://github.com/GazmanovDev/oopproject
+
 # Ежедневник
 
 Десктопное приложение для ведения задач на Python + Flet.
